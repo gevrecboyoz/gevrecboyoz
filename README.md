@@ -6,7 +6,7 @@ SDET
 
 About Me
 
-I am +6 year experienced Software Development Engineer in Test. Completed my master's degree in computer engineering with thesis. Currently educated myself in Python, AI, MLOps, CI/CD and SDET.
+I am an experienced Software Development Engineer in Test. Completed my master's degree in computer engineering with thesis. Currently educated myself in Python, AI, MLOps, CI/CD and SDET.
 
 Education
 
