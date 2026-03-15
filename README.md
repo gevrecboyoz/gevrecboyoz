@@ -6,7 +6,7 @@ SDET
 
 About Me
 
-I am +6 year experienced Software Development Engineer in Test (SDET). Completed my master's degree in computer engineering with thesis at 2025 and currently educated myself in CI/CD, Linux and SDET areas.
+I am +6 year experienced Software Development Engineer in Test. Completed my master's degree in computer engineering with thesis. Currently educated myself in Python, AI, MLOps, CI/CD and SDET.
 
 Education
 
@@ -27,11 +27,11 @@ Areas of Expertise
 
 Currently Learning
 
-🌱 I’m currently learning Playwright with Python and Linux for DevOps expertise.
+🌱 I’m currently learning Playwright with Python and MLOps
 
 Hobbies
 
-I am a GAMER! 👾 Currently playing Assassin's Creed Shadows, Battlefield 6 and FC'26. 
+I am a GAMER! 👾 Currently playing Assassin's Creed Shadows, Battlefield 6 and Nioh 3. 
 
 
 *** Professional Experience ***
