@@ -31,10 +31,10 @@ Currently Learning
 
 Hobbies
 
-I am a GAMER! 👾 Currently playing Assassin's Creed Shadows, Battlefield 6 and Nioh 3. 
+I am a gamer! 👾 Currently playing Assassin's Creed Shadows, Battlefield 6, Borderlands 4 and Nioh 3. 
 
 
-*** Professional Experience ***
+Professional Experience
 
 
 Hepsiburada
