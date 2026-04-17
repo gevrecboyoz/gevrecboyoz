@@ -39,7 +39,7 @@ Professional Experience
 
 Hepsiburada
 Sr. Software QA Engineer
-(2024 - Current)
+(2024 - May 2026)
 
 Hepsiburada is one of the largest e-commerce platform of Turkiye, providing millions of users with a
 seamless shopping experience through its website and mobile app.
